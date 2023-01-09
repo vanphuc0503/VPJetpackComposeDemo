@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CrewJetpackCompose</string>
+
+    <string name="tab_all_crew_info">All Crew</string>
+    <string name="tab_filter_crew">Filter Crew</string>
+    <string name="tab_another">Another</string>
+    <string name="tab_feature">Feature</string>
+</resources>
